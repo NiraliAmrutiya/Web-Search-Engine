@@ -1,0 +1,6 @@
+ca\uwindsor\searchengine\SearchEngineApplication.class
+ca\uwindsor\searchengine\util\RankingComparator.class
+ca\uwindsor\searchengine\store\WebStore.class
+ca\uwindsor\searchengine\services\CrawlerService.class
+ca\uwindsor\searchengine\services\WebpageRenderService.class
+ca\uwindsor\searchengine\util\entity\Ranking.class
